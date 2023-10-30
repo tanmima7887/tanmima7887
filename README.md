@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @tanmima7887
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning some machine learning models and tools.
-- 💞️ I’m looking to collaborate on LLM
-- 📫 How to reach me tanmimahmmed@gmail.com
-
-<!---
-tanmima7887/tanmima7887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a fourth-year Computer Science major with a fervent enthusiasm for the world of technology, particularly in the realm of Artificial Intelligence and Machine Learning. Proficient in a range of programming languages and technologies, I have a keen interest in harnessing AI and ML to solve complex problems and drive innovation. With leadership experience and a strong commitment to punctuality, I'm eager to contribute my skills to a forward-thinking technology company that shares my passion for cutting-edge solutions. Let's connect and embark on an exciting journey into the world of AI and ML!
