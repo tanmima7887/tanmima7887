@@ -24,36 +24,49 @@
 - Front-end by Flask, Streamlit.
 
 ## 🛠️ Tech Stack
-
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+<p align="center">
+    <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="43" height="43"></a>
+    <a href="https://www.r-project.org/"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="43" height="43"></a>
+    <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="43" height="43"></a>
+    <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="43" height="43"></a>
+    <a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="43" height="43"></a>
+    <a href="https://www.javascript.com/"><img src="https://vectorwiki.com/images/G9sE3__javascript.svg" alt="Javascript" width="43" height="43"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="Visual Basic" width="43" height="43"></a>
+    <a href="https://julialang.org/"><img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="Julia" width="86" height="43"></a>
+    <br />
+    <a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="90" height="43"></a>
+    <a href="https://azure.microsoft.com/en-us"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" width="90" height="43"></a>
+    <a href="https://ibm.com/cloud/"><img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM_Cloud" width="43" height="43"></a>
+    <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="43" height="43"></a>
+    <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="43" height="43"></a>
+    <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="43" height="43"></a>
+    <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="43" height="43"></a>
+    <a href="https://pytorch-geometric.readthedocs.io/en/latest/"><img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="Pytorch Geometric" width="43" height="43"></a>
+    <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="Keras" width="43" height="43"></a>
+    <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="53" height="53"></a>
+    <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
+    <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" alt="Pandas" width="43" height="43"></a>
+    <a href="https://huggingface.co/"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="43" height="43"></a>
+    <a href="https://www.kaggle.com/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="43" height="43"></a>
+    <a href="https://colab.google/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="41" height="43"></a>
+    <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43"></a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="43" height="43"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="43" height="43"></a>
+    <a href="https://getbootstrap.com/"><img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="47" height="47"></a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43"></a>
+    <a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43"></a>
+    <a href="https://plotly.com/"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="43" height="43"></a>
+    <a href="https://www.globus.org/"><img src="https://www.globus.org/assets/images/logo_globus-solid.svg" alt="Globus" width="53" height="53"></a>
+    <br />
+    <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43"></a>
+    <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="43" height="43"></a>
+    <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="43" height="43"/></a>
+    <br />
+    <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="47" height="47"></a>
+    <a href="https://github.com/"><img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" alt="GitHub" width="43" height="43"></a>
+    <br />
+    <a href="https://www.digitalocean.com/"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43"></a>
 
 ## 📊 GitHub Stats
 
