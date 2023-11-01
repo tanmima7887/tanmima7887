@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tanmima7887&label=Profile%20views&color=0e75b6&style=flat)
 
-🤖 I'm a Computer Science undergraduate student with a passion for AI and Machine Learning. Currently, I'm on a journey of learning various ML & Deep Learning models and tools to unlock the potential of data-driven insights.
+🤖 I'm a Computer Science undergraduate student with a passion for AI and Machine Learning. Currently, I'm on a journey of learning various ML and deep Learning models and tools to unlock the potential of data-driven insights.
 
 🤝 I'm open to collaboration on projects related to LLM. Feel free to reach out to me at tanmimahmmed@gmail.com.
 
